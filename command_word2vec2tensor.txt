@@ -1,0 +1,1 @@
+python -m gensim.scripts.word2vec2tensor --input /vectors/word2vecformat --output word2vec
